@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0842003F25FDD63B00CA073B /* お金.1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0842003E25FDD63B00CA073B /* お金.1.png */; };
+		0842004425FDD64300CA073B /* お金2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0842004325FDD64200CA073B /* お金2.png */; };
 		08F7A7FC258EFAFB0096D73C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F7A7FB258EFAFB0096D73C /* AppDelegate.swift */; };
 		08F7A7FE258EFAFB0096D73C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F7A7FD258EFAFB0096D73C /* ViewController.swift */; };
 		08F7A801258EFAFB0096D73C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08F7A7FF258EFAFB0096D73C /* Main.storyboard */; };
@@ -14,6 +16,10 @@
 		08F7A806258EFAFB0096D73C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08F7A804258EFAFB0096D73C /* LaunchScreen.storyboard */; };
 		08F7A811258EFAFB0096D73C /* tyokinnTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F7A810258EFAFB0096D73C /* tyokinnTests.swift */; };
 		08F7A81C258EFAFB0096D73C /* tyokinnUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F7A81B258EFAFB0096D73C /* tyokinnUITests.swift */; };
+		08F7B37025B4124F0033445D /* ViewController 3_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F7B36F25B4124F0033445D /* ViewController 3_2.swift */; };
+		08F7B37225B412ED0033445D /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F7B37125B412ED0033445D /* ViewController4.swift */; };
+		08F7B37425B413220033445D /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F7B37325B413220033445D /* ViewController5.swift */; };
+		08F7B37625B4176D0033445D /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F7B37525B4176D0033445D /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0842003E25FDD63B00CA073B /* お金.1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "お金.1.png"; path = "../../お金.1.png"; sourceTree = "<group>"; };
+		0842004325FDD64200CA073B /* お金2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "お金2.png"; path = "../../お金2.png"; sourceTree = "<group>"; };
 		08F7A7F8258EFAFB0096D73C /* tyokinn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tyokinn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08F7A7FB258EFAFB0096D73C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08F7A7FD258EFAFB0096D73C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +55,10 @@
 		08F7A817258EFAFB0096D73C /* tyokinnUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tyokinnUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		08F7A81B258EFAFB0096D73C /* tyokinnUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tyokinnUITests.swift; sourceTree = "<group>"; };
 		08F7A81D258EFAFB0096D73C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08F7B36F25B4124F0033445D /* ViewController 3_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "ViewController 3_2.swift"; path = "../../ViewController 3_2.swift"; sourceTree = "<group>"; };
+		08F7B37125B412ED0033445D /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewController4.swift; path = ../../ViewController4.swift; sourceTree = "<group>"; };
+		08F7B37325B413220033445D /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewController5.swift; path = ../../ViewController5.swift; sourceTree = "<group>"; };
+		08F7B37525B4176D0033445D /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +109,15 @@
 		08F7A7FA258EFAFB0096D73C /* tyokinn */ = {
 			isa = PBXGroup;
 			children = (
+				08F7B37525B4176D0033445D /* ViewController2.swift */,
 				08F7A7FB258EFAFB0096D73C /* AppDelegate.swift */,
 				08F7A7FD258EFAFB0096D73C /* ViewController.swift */,
 				08F7A7FF258EFAFB0096D73C /* Main.storyboard */,
+				08F7B37325B413220033445D /* ViewController5.swift */,
+				08F7B37125B412ED0033445D /* ViewController4.swift */,
+				08F7B36F25B4124F0033445D /* ViewController 3_2.swift */,
+				0842003E25FDD63B00CA073B /* お金.1.png */,
+				0842004325FDD64200CA073B /* お金2.png */,
 				08F7A802258EFAFB0096D73C /* Assets.xcassets */,
 				08F7A804258EFAFB0096D73C /* LaunchScreen.storyboard */,
 				08F7A807258EFAFB0096D73C /* Info.plist */,
@@ -233,6 +251,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				08F7A806258EFAFB0096D73C /* LaunchScreen.storyboard in Resources */,
+				0842003F25FDD63B00CA073B /* お金.1.png in Resources */,
+				0842004425FDD64300CA073B /* お金2.png in Resources */,
 				08F7A803258EFAFB0096D73C /* Assets.xcassets in Resources */,
 				08F7A801258EFAFB0096D73C /* Main.storyboard in Resources */,
 			);
@@ -259,8 +279,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08F7B37625B4176D0033445D /* ViewController2.swift in Sources */,
 				08F7A7FE258EFAFB0096D73C /* ViewController.swift in Sources */,
 				08F7A7FC258EFAFB0096D73C /* AppDelegate.swift in Sources */,
+				08F7B37025B4124F0033445D /* ViewController 3_2.swift in Sources */,
+				08F7B37425B413220033445D /* ViewController5.swift in Sources */,
+				08F7B37225B412ED0033445D /* ViewController4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,9 +451,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9WSRT9YG7Q;
 				INFOPLIST_FILE = tyokinn/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = CATechkids.tyokinn;
+				PRODUCT_BUNDLE_IDENTIFIER = ai.tyokinn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -441,9 +466,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9WSRT9YG7Q;
 				INFOPLIST_FILE = tyokinn/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = CATechkids.tyokinn;
+				PRODUCT_BUNDLE_IDENTIFIER = ai.tyokinn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
