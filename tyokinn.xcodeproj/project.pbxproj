@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		083956A02647AB42002ABCBA /* Audio (3).zip in Resources */ = {isa = PBXBuildFile; fileRef = 0839569F2647AB42002ABCBA /* Audio (3).zip */; };
 		0842003F25FDD63B00CA073B /* お金.1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0842003E25FDD63B00CA073B /* お金.1.png */; };
 		0842004425FDD64300CA073B /* お金2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0842004325FDD64200CA073B /* お金2.png */; };
 		08F7A7FC258EFAFB0096D73C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F7A7FB258EFAFB0096D73C /* AppDelegate.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0839569F2647AB42002ABCBA /* Audio (3).zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = "Audio (3).zip"; path = "../../../Downloads/Audio (3).zip"; sourceTree = "<group>"; };
 		0842003E25FDD63B00CA073B /* お金.1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "お金.1.png"; path = "../../お金.1.png"; sourceTree = "<group>"; };
 		0842004325FDD64200CA073B /* お金2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "お金2.png"; path = "../../お金2.png"; sourceTree = "<group>"; };
 		08F7A7F8258EFAFB0096D73C /* tyokinn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tyokinn.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -109,6 +111,7 @@
 		08F7A7FA258EFAFB0096D73C /* tyokinn */ = {
 			isa = PBXGroup;
 			children = (
+				0839569F2647AB42002ABCBA /* Audio (3).zip */,
 				08F7B37525B4176D0033445D /* ViewController2.swift */,
 				08F7A7FB258EFAFB0096D73C /* AppDelegate.swift */,
 				08F7A7FD258EFAFB0096D73C /* ViewController.swift */,
@@ -254,6 +257,7 @@
 				0842003F25FDD63B00CA073B /* お金.1.png in Resources */,
 				0842004425FDD64300CA073B /* お金2.png in Resources */,
 				08F7A803258EFAFB0096D73C /* Assets.xcassets in Resources */,
+				083956A02647AB42002ABCBA /* Audio (3).zip in Resources */,
 				08F7A801258EFAFB0096D73C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
